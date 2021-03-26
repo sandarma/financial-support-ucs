@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import FeaturedCause from "./components/featured-cause";
+import FeaturedCause from "components/featured-cause";
 
 function App() {
   return (
